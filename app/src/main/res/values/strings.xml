@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mona_lisa_content_desc">Mona Lisa by Leonardo DaVinci</string>
+    <string name="bb_content_desc">Bethsheba at her bath by Rembrandt</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="bethsheba">Bethsheba At Her Bath</string>
+    <string name="leo_davinci">by Leonardo DaVinci \n(1519)</string>
+    <string name="rembrandt">by Rembrandt \n(1654)</string>
+</resources>
